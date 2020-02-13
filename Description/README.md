@@ -9,4 +9,4 @@ To use system go to CreateUser.html and create user. Following this you are able
 To log-in as admin use username: "admin" with password "1234".
 
 
-//Aske, Elisa & Sebastian
+//Aske & Sebastian
